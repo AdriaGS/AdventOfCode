@@ -5,5 +5,5 @@ This repo contains the code to solve the different problems of Advent of Code 20
 
 Languages:
 
-Day 1 - Day 4: Python
-Day5 - Day 8: Golang
+* Day 1 - Day 4: Python
+* Day5 - Day 8: Golang
